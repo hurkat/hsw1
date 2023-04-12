@@ -1,0 +1,38 @@
+Phishing is a type of cyber attack that involves tricking people 
+into giving out sensitive information, 
+such as passwords and credit card numbers,
+ by pretending to be a trustworthy source. 
+This is typically done through fake emails, 
+social media messages, or websites that look legitimate, but are actually designed to steal personal information.
+
+Here's how a phishing attack might work:
+
+The attacker sends a fake email or message to a large group of people, pretending to be from a legitimate company or organization.
+
+The message may contain a link to a fake website that looks exactly like the real thing, but is actually controlled by the attacker.
+
+If the recipient clicks on the link and enters their login details or other sensitive information, 
+the attacker can then use that information to gain access to the person's accounts or steal their identity.
+
+To protect yourself from phishing attacks, it's important to be cautious when clicking 
+on links in emails or messages, and to always verify the authenticity of websites before entering sensitive information.
+ It's also a good idea to use strong, unique passwords and enable two-factor authentication whenever possible.
+
+
+
+Phishing is a type of cyber attack that aims to steal sensitive information from individuals or organizations.
+ It typically involves the attacker sending fake emails, social media messages, or text messages that appear to be
+ from a legitimate source, but are actually designed to trick the recipient into giving out their login credentials, 
+credit card numbers, or other sensitive information. The attackers may also create fake websites that look exactly like
+ the real thing, in order to trick people into entering their information.
+
+
+Phishing attacks can be difficult to detect, 
+as the attackers often go to great lengths to make their
+ messages and websites look legitimate. However, there are 
+some signs to look out for, such as unusual sender addresses,
+ unexpected attachments or links, and requests for personal information.
+ To protect against phishing attacks, it's important to be cautious when
+ clicking on links or entering information online, and to always verify the
+ authenticity of websites before entering sensitive information. It's also a good idea to use strong,
+ unique passwords and enable two-factor authentication whenever possible.
